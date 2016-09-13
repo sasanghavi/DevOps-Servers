@@ -2,7 +2,7 @@ var needle = require("needle");
 var os   = require("os");
 
 var config = {};
-config.token = "e7913305cc6a38cdb7c468848966005f4bf68dee15cc515b7673963b006f15cb";
+config.token = "<TOKEN>";
 
 var headers =
 {
